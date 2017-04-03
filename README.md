@@ -1,1 +1,1 @@
-# cg
+# Computer Graphics (OpenGL)
